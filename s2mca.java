@@ -1,4 +1,4 @@
-public class s2mca 
+class s2mca 
 {
     String name="malavika";
     public static void main(String[] args)
@@ -9,7 +9,7 @@ public class s2mca
     }//main
     
     
-    public static void show() 
+    static void show() 
     {
         System.out.println("Name is malavika");
     }
